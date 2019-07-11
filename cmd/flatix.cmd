@@ -1,3 +1,3 @@
 @SETLOCAL
-@py -m pipenv run python -m scripts.flatix %*
+@py -m pipenv run python.exe -m scripts.flatix %*
 @ENDLOCAL

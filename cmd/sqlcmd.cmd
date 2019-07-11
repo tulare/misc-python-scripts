@@ -1,3 +1,3 @@
 @SETLOCAL
-@CALL py -m pipenv run python -m scripts.sqlcmd %*
+@CALL py -m pipenv run python.exe -m scripts.sqlcmd %*
 @ENDLOCAL

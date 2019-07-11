@@ -1,3 +1,3 @@
 @SETLOCAL
-@py -m pipenv run python -m scripts.prefix %*
+@py -m pipenv run python.exe -m scripts.prefix %*
 @ENDLOCAL
